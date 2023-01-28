@@ -44,6 +44,7 @@ body {
     margin: auto;
     width: 20%;
     border: 7px solid rgb(98, 0, 255);
+    background: rgb(98, 0, 255);
     height: 50%;
     padding: 10px;
     align-items: center;
